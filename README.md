@@ -1,0 +1,2 @@
+# ParanormalBot
+class Project
